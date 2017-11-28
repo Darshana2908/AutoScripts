@@ -1,0 +1,1 @@
+G:\integral\JAVA\jre1.8.0_45\bin\java -Xms512m -Xmx4g -XX:MaxMetaspaceSize=512m -jar G:\integral\app\pnc\batchjob\csc-smart400-batch\csc-smart400-batch-1.0-SNAPSHOT.jar G:\integral\app\pnc\conf\QuipozCfg.xml

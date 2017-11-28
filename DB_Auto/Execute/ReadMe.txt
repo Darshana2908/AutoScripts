@@ -1,0 +1,1 @@
+Stores copies of files from 'All' folder, to execute the queries.

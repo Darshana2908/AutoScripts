@@ -1,0 +1,1 @@
+G:\integral\JAVA\jre1.8.0_45\bin\java -Xms2g -Xmx4g -XX:MaxMetaspaceSize=1G -jar H:\integral\app\regression\R16.2_Life_FTtesting\batchjob\csc-smart400-batch\csc-smart400-batch-1.0-SNAPSHOT.jar H:\integral\app\regression\R16.2_Life_FTtesting\conf\QuipozCfg.xml

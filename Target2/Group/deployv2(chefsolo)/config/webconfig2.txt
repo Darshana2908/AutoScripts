@@ -1,0 +1,69 @@
+########################### xml #################
+#1 Home Deploy Folder
+G:\integral\app\group\deployv2
+#3 Admin Window Service Name
+GROUP_ADMIN
+#5 Batch Job Task Name
+Group Batchjob
+#3 WebAdmin war Name
+CSCGroupAsiaWeb
+# MBRDATA Name
+MBRDATA
+# Axis2
+axis2
+# WebService Name
+GroupServices
+#5 Server Name
+cscdbnoi017
+#7 Server Port
+12014
+# Context Path Admin
+/CSCGroupAsiaWeb
+# Context Path MBRDATA
+/MBRDATA
+#9 CAS URL
+https://cscdbnoi017:18443/cas
+#11 APP URL
+http://cscdbnoi017:12014/CSCGroupAsiaWeb/
+#13 Database
+MSSQL
+#15 Logback Admin URL
+G:\integral\app\group\reports\logs
+#17 Logback Batchjob URL
+G:\integral\app\group\reports\logs
+#19 Jboss Deployments Location
+G:\integral\app\group\jboss-eap-6.4\standalone\deployments
+#21 Batch Job Location (Please use two backtab "\\")
+G:\\integral\\app\\group\\batchjob
+#23 Jboss Home
+G:\\integral\\app\\group\\jboss-eap-6.4
+#21 Quipoz Folder Location
+G:\integral\app\group\conf
+#25 Domain Name
+cscdbnoi017:12014
+#27 Home Packages Folder
+G:\integral\app\group\deployv2\_builds_Admin-Batchjob
+# WS Builds Folder
+G:\integral\app\group\deployv2\_builds_WS
+###Jboss or Wildfly
+Jboss
+############################# DB.properties ###############################
+# Connection dialect
+org.hibernate.dialect.SQLServerDialect
+#30 Connection Driver
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+#32 Connection Url
+jdbc:sqlserver://20.198.58.32:1433;databaseName=INT77DB2014
+#34 Connection Username
+int77
+#36 Connection Password
+ENC(ZM8DEdYFKOb+xI4TPMiXUxeCDdv6s1YG)
+
+
+
+
+
+
+
+
+

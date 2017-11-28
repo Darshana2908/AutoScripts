@@ -1,0 +1,67 @@
+########################### xml #################
+#1 Home Deploy Folder
+G:/integral/app/life/deployv2
+#3 Admin Window Service Name
+LIFE_ADMIN
+#5 Batch Job Task Name
+Life Batchjob
+#7 WebAdmin war Name
+CSCLifeAsiaWeb
+# MBRDATA Name
+MBRDATA
+# Axis2
+axis2
+# WebService Name
+LifeServices
+#3 Server Name
+cscdbnoi017
+#5 Server Port
+12012
+#7 CAS URL
+https://cscdbnoi017:18443/cas
+#9 APP URL
+http://cscdbnoi017:12012/LifeAsiaWeb/
+#11 Database
+MSSQL
+#13 Logback Admin URL
+G:\integral\app\life\reports\logs
+#15 Logback Batchjob URL
+G:\integral\app\life\reports\logs
+#17 Jboss Deployments Location
+G:\integral\app\life\jboss-eap-6.4\standalone\deployments
+#19 Batch Job Location (Please use two backtab "\\")
+G:\\integral\\app\\life\\batchjob
+#21 Jboss Home
+G:\\integral\\app\\life\\jboss-eap-6.4
+#23 Diary Location
+G:/integral/app/life/Auto-Diary
+#33 Quipoz Folder Location
+G:\integral\app\life\conf
+#25 Domain name
+cscdbnoi017:12012
+#37 Home Packages Folder
+G:\integral\app\life\deployv2\_builds_Admin-Batchjob
+# WS Builds Folder
+G:\integral\app\life\deployv2\_builds_WS
+###Jboss or Wildfly
+Jboss
+############################# DB.properties ###############################
+#39 Connection dialect
+org.hibernate.dialect.SQLServerDialect
+#41 Connection Driver
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+#30 Connection Url
+jdbc:sqlserver://20.198.58.32:1433;databaseName=INT77DB2014
+#32 Connection Username
+int77
+#34 Connection Password
+ENC(ZM8DEdYFKOb+xI4TPMiXUxeCDdv6s1YG)
+
+
+
+
+
+
+
+
+

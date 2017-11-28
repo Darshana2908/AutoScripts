@@ -1,0 +1,1 @@
+chef-solo -c C:\chef-repo\roles\solo.rb -j C:\chef-repo\roles\Polisy132.json --logfile C:\chef-repo\logs\Polisy132\target-"polisy132-%date:/=-%-%time::=-%".log

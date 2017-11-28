@@ -1,0 +1,1 @@
+start /d "C:\integral\app\pnc\scripts" pnc_start_batch.bat

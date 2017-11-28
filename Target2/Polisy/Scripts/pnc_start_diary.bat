@@ -1,0 +1,1 @@
+java -Xms1024m -Xmx2g -cp C:\integral\app\pnc\AutoDiary\csc-iwa-app\csc-iwa-app-1.0-SNAPSHOT.jar com.csc.iwa.control.IwaScheduler C:\integral\app\pnc\conf\QuipozCfg.xml

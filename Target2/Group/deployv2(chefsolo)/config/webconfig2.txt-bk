@@ -1,0 +1,44 @@
+########################### xml #################
+#1 Home Deploy Folder
+G:/integral/app/group/deployv2
+#3 Server Name
+cscdbnoi017
+#5 Server Port
+12014
+#7 CAS URL
+https://cscdbnoi017:18443/cas
+#9 APP URL
+http://cscdbnoi017:12014/CSCGroupAsiaWeb/
+#11 Database
+MSSQL
+#13 Logback Admin URL
+G:\integral\app\group\reports\logs
+#15 Logback Batchjob URL
+G:\integral\app\group\reports\logs
+#17 Jboss Deployments Location
+G:/integral/app/group/jboss-eap-6.4/standalone/deployments
+#19 Batch Job Location
+G:/integral/app/group/batchjob
+#21 Jboss bin
+G:/integral/app/group/jboss-eap-6.4/bin
+#23 Domain name
+cscdbnoi017:12014
+############################# DB.properties ###############################
+#26 Connection Driver
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+#28 Connection Url
+jdbc:sqlserver://20.198.58.32:1433;databaseName=INT77DB2014
+#30 Connection Username
+int77
+#32 Connection Password
+ENC(ZM8DEdYFKOb+xI4TPMiXUxeCDdv6s1YG)
+
+
+
+
+
+
+
+
+
+

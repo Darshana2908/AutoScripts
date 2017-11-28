@@ -1,0 +1,1 @@
+chef-solo -c C:\chef-repo\roles\solo.rb -j C:\chef-repo\roles\WS-Group.json --logfile C:\chef-repo\logs\WS-Group\WS-"Group-%date:/=-%-%time::=-%".log

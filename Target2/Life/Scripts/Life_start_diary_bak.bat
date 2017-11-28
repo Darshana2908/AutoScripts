@@ -1,0 +1,1 @@
+java -Xms1024m -Xmx2g -cp G:\integral\app\life\Auto-Diary\csc-iwa-app\csc-iwa-app-1.0-SNAPSHOT.jar com.csc.iwa.control.IwaScheduler G:\integral\app\life\conf\QuipozCfg.xml

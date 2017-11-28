@@ -1,0 +1,1 @@
+chef-solo -c C:\chef-repo\roles\solo.rb -j C:\chef-repo\roles\Group132.json --logfile C:\chef-repo\logs\Group132\target-"group132-%date:/=-%-%time::=-%".log

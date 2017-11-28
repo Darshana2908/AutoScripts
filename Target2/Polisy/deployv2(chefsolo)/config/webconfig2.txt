@@ -1,0 +1,65 @@
+########################### xml #################
+#1 Home Deploy Folder
+G:/integral/app/pnc/deployv2
+#3 Admin Window Service Name
+POLISY_ADMIN
+#5 Batch Job Task Name
+Polisy Batchjob
+#7 WebAdmin war Name
+PolisyAsiaWeb
+# MBRDATA Name
+MBRDATA
+# Axis2
+axis2
+# WebService Name
+PolisyServices
+#9 Server Name
+cscdbnoi017
+#11 Server Port
+12013
+#17 CAS URL
+https://cscdbnoi017:18443/cas
+#19 APP URL
+http://cscdbnoi017:12013/PolisyAsiaWeb/
+#21 Database
+MSSQL
+#23 Logback Admin URL
+G:\integral\app\pnc\reports\logs
+#25 Logback Batchjob URL
+G:\integral\app\pnc\reports\logs
+#27 Jboss Deployments Location
+G:\integral\app\pnc\jboss-eap-6.4\standalone\deployments
+#29 Batch Job Location (Please use two backtab "\\")
+G:\\integral\\app\\pnc\\batchjob
+#31 Jboss Home
+G:\\integral\\app\\pnc\\jboss-eap-6.4
+#33 Quipoz Folder Location
+G:\integral\app\pnc\conf
+#35 Domain name
+cscdbnoi017:12013
+#37 Home Packages Folder
+G:\integral\app\pnc\deployv2\_builds_Admin-Batchjob
+# WS Builds Folder
+G:\integral\app\pnc\deployv2\_builds_WS
+###Jboss or Wildfly
+Jboss
+############################# DB.properties ###############################
+#39 Connection dialect
+org.hibernate.dialect.SQLServerDialect
+#41 Connection Driver
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+#43 Connection Url
+jdbc:sqlserver://20.198.58.32:1433;databaseName=INT77DB2014
+#45 Connection Username
+int77
+#47 Connection Password
+ENC(ZM8DEdYFKOb+xI4TPMiXUxeCDdv6s1YG)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+chef-solo -c C:\chef-repo\roles\solo.rb -j C:\chef-repo\roles\Life132.json --logfile C:\chef-repo\logs\Life132\target-"life132-%date:/=-%-%time::=-%".log

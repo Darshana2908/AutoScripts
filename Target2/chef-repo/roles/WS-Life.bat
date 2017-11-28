@@ -1,0 +1,1 @@
+chef-solo -c C:\chef-repo\roles\solo.rb -j C:\chef-repo\roles\WS-Life.json --logfile C:\chef-repo\logs\WS-Life\WS-"Life-%date:/=-%-%time::=-%".log
